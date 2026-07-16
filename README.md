@@ -1,5 +1,8 @@
 # 🧬 EvoClaw - Experience, Reflect, Evolve
 
+> **Created by Antono**
+
+
 **A soul & memory management framework that enables structured evolution for OpenClaw agents. Make your agents actually learn from experience!**
 
 
