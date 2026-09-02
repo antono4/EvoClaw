@@ -1,74 +1,26 @@
-<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
-<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
+# EvoClaw
 
-<h1 align="center">Project 👋</h1>
 
-<p align="center">
-  <strong></strong>
-</p>
 
-<p align="center">
-  <a href="https://github.com/antono4/EvoClaw"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/EvoClaw-blue?logo=github"></a>
-  <a href="https://antono4.github.io/EvoClaw/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-29-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-03 04:13:35 WIB-lightgrey">
-</p>
+## 📋 Overview
 
----
+This repository contains **29 files** and is built with the following technologies:
 
-## 📖 Tentang
+Not detected
 
-Repository **`EvoClaw`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/EvoClaw/`](https://antono4.github.io/EvoClaw/).
+## 🚀 Quick Start
 
-## 🗂️ Struktur Proyek
+## ✨ Features
 
-```
-EvoClaw/
-├── index.html          # Halaman utama (landing / portofolio)
-├── assets/             # Aset statis (css, js, img, vendor)
-├── forms/               # Form handler (PHP)
-└── docs/              # EvoClaw — Structured Soul Evolution for AI Agents  ->  https://antono4.github.io/EvoClaw/docs/
-```
+- 📝 Auto-generated documentation
 
-## 🌐 Sub-Proyek / Demo
+## 🛠️ Technologies
 
-Situs ini juga memuat beberapa sub-proyek (masing-masing punya `index.html` tersendiri):
+Not detected
 
-| Folder | Demo Live | Keterangan |
-|--------|-----------|-----------|
-| [`docs`](./docs) | [https://antono4.github.io/EvoClaw/docs/](https://antono4.github.io/EvoClaw/docs/) | EvoClaw — Structured Soul Evolution for AI Agents |
+## 📄 License
 
-## 🛠️ Teknologi
-
-Berdasarkan isi repository, proyek ini menggunakan:
-
-- `HTML`
-- `Python`
-
-> Total **29 file** terdeteksi di repository.
-
-## 🚀 Menjalankan Secara Lokal
-
-Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
-
-```bash
-# Tanpa dependency
-python3 -m http.server 8000
-# lalu buka http://localhost:8000
-
-# atau dengan PHP (untuk form handler di forms/)
-php -S localhost:8000
-```
-
-## 📬 Kontak
-
-- GitHub: [antono4](https://github.com/antono4)
-- Situs: [https://antono4.github.io/EvoClaw/](https://antono4.github.io/EvoClaw/)
-
-## 📄 Lisensi
-
-Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+MIT License
 
 ---
-
-<sub>README ini di-generate otomatis pada **2026-09-03 04:13:35 WIB** oleh GitHub Actions .</sub>
+*Last updated: 2026-09-03 04:59:59 WIB*
